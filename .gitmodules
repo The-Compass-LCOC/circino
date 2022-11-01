@@ -1,3 +1,6 @@
 [submodule "documentation"]
 	path = documentation
 	url = https://github.com/The-Compass-LCOC/circino-documentation.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/The-Compass-LCOC/circino-frontend.git
