@@ -1,0 +1,13 @@
+{
+  "name": "circino",
+  "version": "0.0.1",
+  "description": "A full stack order processing dashboard using Cognito for form building.",
+  "repository": "https://github.com/The-Compass-LCOC/circino",
+  "author": "Matthew Poon <matt@thecompass.ca>",
+  "license": "MIT",
+  "scripts": {
+    "update-submodule": "git submodule update --init --recursive --remote",
+    "update-base": "git pull",
+    "update": "yarn update-submodule && yarn update-base"
+  }
+}
